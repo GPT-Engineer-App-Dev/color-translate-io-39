@@ -1,0 +1,11 @@
+[project]
+base_dir = "."
+src_dir = "src"
+
+[run]
+
+[gptengineer-app]
+project_id = "30b53457-5ed0-4a4a-bf02-795225a7bdc4"
+
+[[gptengineer-app.openapi]]
+url = "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/color.pizza/1.0.0/openapi.yaml"
