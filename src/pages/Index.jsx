@@ -54,7 +54,7 @@ const Index = () => {
             </Text>
           </Box>
           <Box>
-            <Image src={colorInfo.svg} alt={`Swatch of ${colorInfo.name}`} />
+            <Image src={colorInfo.swatchImg.svg} alt={`Swatch of ${colorInfo.name}`} />
           </Box>
         </SimpleGrid>
       )}
